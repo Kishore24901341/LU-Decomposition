@@ -23,7 +23,7 @@ End the program
 ## Program:
 1. To find the L and U matrix
 ```
-'''Program to find L and U matrix using LU decomposition.
+Program to find L and U matrix using LU decomposition.
 Developed by: KISHORE.V 
 RegisterNumber: 24901341
 '''
@@ -36,7 +36,7 @@ print(U)
 ```
 2. To find the LU Decomposition of a matrix
 ```
-'''Program to solve a matrix using LU decomposition.
+Program to solve a matrix using LU decomposition.
 Developed by: KISHORE.V 
 RegisterNumber: 24901341
 '''
